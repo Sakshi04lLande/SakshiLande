@@ -1,4 +1,4 @@
--  Hi, I’m @Sakshi04lLande
+-  Hi, I’m SakshiLande
 -  I’m interested in Data Analytics ,Data Science,Python Development 
 -  I’m currently learning In MCA 
 
